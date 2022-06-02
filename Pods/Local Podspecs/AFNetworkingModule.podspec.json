@@ -17,5 +17,10 @@
     "AFNetworkingModule",
     "AFNetworkingModule/**/*.{h,m}"
   ],
-  "exclude_files": "AFNetworkingModule/Exclude"
+  "exclude_files": "AFNetworkingModule/Exclude",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
 }

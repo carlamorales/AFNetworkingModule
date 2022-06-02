@@ -1,5 +1,6 @@
 PODS:
-  - AFNetworkingModule (0.0.1)
+  - AFNetworkingModule (0.0.1):
+    - Alamofire
   - Alamofire (5.6.1)
 
 DEPENDENCIES:
@@ -15,7 +16,7 @@ EXTERNAL SOURCES:
     :path: "."
 
 SPEC CHECKSUMS:
-  AFNetworkingModule: 53aa9afcbd788714cd8300b2d8652a6010b37bce
+  AFNetworkingModule: e93f51989ae09119db4fc630c46b6b478245589a
   Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
 
 PODFILE CHECKSUM: 605511b95626604df323deafd5c0c6d7f75791fa

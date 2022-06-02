@@ -13,4 +13,5 @@ Pod::Spec.new do |spec|
   }
   spec.source_files  = "AFNetworkingModule", "AFNetworkingModule/**/*.{h,m}"
   spec.exclude_files = "AFNetworkingModule/Exclude"
+  spec.dependency 'Alamofire'
 end
