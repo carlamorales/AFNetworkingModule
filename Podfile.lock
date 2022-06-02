@@ -1,0 +1,16 @@
+PODS:
+  - AFNetworkingModule (0.0.1)
+
+DEPENDENCIES:
+  - AFNetworkingModule (from `.`)
+
+EXTERNAL SOURCES:
+  AFNetworkingModule:
+    :path: "."
+
+SPEC CHECKSUMS:
+  AFNetworkingModule: 7a773f3d1159d65dd82c6246fbd9f2133eee6b56
+
+PODFILE CHECKSUM: 53d599c75d664bc32553fa7c6974a37e3f68ba4c
+
+COCOAPODS: 1.11.3
