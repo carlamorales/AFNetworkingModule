@@ -7,7 +7,7 @@
   "license": "MIT",
   "authors": "carlamorales",
   "source": {
-    "git": "https://github.com/carlamorales",
+    "git": "https://github.com/carlamorales/AFNetworkingModule.git",
     "tag": "0.0.1"
   },
   "source_files": [

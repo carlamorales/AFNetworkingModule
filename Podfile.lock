@@ -1,16 +1,23 @@
 PODS:
   - AFNetworkingModule (0.0.1)
+  - Alamofire (5.6.1)
 
 DEPENDENCIES:
   - AFNetworkingModule (from `.`)
+  - Alamofire
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
 
 EXTERNAL SOURCES:
   AFNetworkingModule:
     :path: "."
 
 SPEC CHECKSUMS:
-  AFNetworkingModule: 7a773f3d1159d65dd82c6246fbd9f2133eee6b56
+  AFNetworkingModule: da8f723538def24c04a87173deb90467c3a2bb91
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
 
-PODFILE CHECKSUM: 53d599c75d664bc32553fa7c6974a37e3f68ba4c
+PODFILE CHECKSUM: 605511b95626604df323deafd5c0c6d7f75791fa
 
 COCOAPODS: 1.11.3

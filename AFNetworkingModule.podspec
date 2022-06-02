@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   spec.author       = "carlamorales"
   spec.source       = { 
-	:git => "https://github.com/carlamorales", 
+	:git => "https://github.com/carlamorales/AFNetworkingModule.git", 
 	:tag => "#{spec.version}"
   }
   spec.source_files  = "AFNetworkingModule", "AFNetworkingModule/**/*.{h,m}"
