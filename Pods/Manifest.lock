@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "."
 
 SPEC CHECKSUMS:
-  AFNetworkingModule: da8f723538def24c04a87173deb90467c3a2bb91
+  AFNetworkingModule: 53aa9afcbd788714cd8300b2d8652a6010b37bce
   Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
 
 PODFILE CHECKSUM: 605511b95626604df323deafd5c0c6d7f75791fa

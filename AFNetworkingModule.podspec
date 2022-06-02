@@ -1,5 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AFNetworkingModule"
+  spec.ios.deployment_target = '15.0'
   spec.version      = "0.0.1"
   spec.summary      = "AFNetworkingModule framework"
   spec.description  = "AFNetworkingModule framework, including example app"
